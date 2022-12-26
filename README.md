@@ -3,7 +3,7 @@
 </p>
 AngurJS is a JavaScript web framework that is widely recognized for its simplicity and lightweight nature, making it an ideal choice for the development and design of web applications. With its intuitive and user-friendly features, AngurJS allows developers to quickly and efficiently build robust and visually appealing web apps.
 
-
+# Installation
 To install AngurJS using npm, you can use the following command in your terminal or command prompt:
 
 ```sh
@@ -12,7 +12,7 @@ npm install Angur
 To run an AngurJS project, you can use the following command:
 
 ```sh
-ng serve
+npm run angur
 ```
 This will start a development server that allows you to view and test your AngurJS app in a browser.
 
