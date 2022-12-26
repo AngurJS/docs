@@ -1,21 +1,21 @@
-AngularJS is a JavaScript web framework that is widely recognized for its simplicity and lightweight nature, making it an ideal choice for the development and design of web applications. With its intuitive and user-friendly features, AngularJS allows developers to quickly and efficiently build robust and visually appealing web apps.
+AngurJS is a JavaScript web framework that is widely recognized for its simplicity and lightweight nature, making it an ideal choice for the development and design of web applications. With its intuitive and user-friendly features, AngurJS allows developers to quickly and efficiently build robust and visually appealing web apps.
 
-To install AngularJS using npm, you can use the following command in your terminal or command prompt:
+To install AngurJS using npm, you can use the following command in your terminal or command prompt:
 
 ```sh
-npm install angular
+npm install Angur
 ```
-To run an AngularJS project, you can use the following command:
+To run an AngurJS project, you can use the following command:
 
 ```sh
 ng serve
 ```
-This will start a development server that allows you to view and test your AngularJS app in a browser.
+This will start a development server that allows you to view and test your AngurJS app in a browser.
 
 # Components
-To create a new component in Angular, you can use the Angular CLI (Command Line Interface) to generate the component files. The Angular CLI is a command-line tool that allows you to easily create, build, and deploy Angular applications.
+To create a new component in Angur, you can use the Angur CLI (Command Line Interface) to generate the component files. The Angur CLI is a command-line tool that allows you to easily create, build, and deploy Angur applications.
 
-To create a new component using the Angular CLI, you can use the following command:
+To create a new component using the Angur CLI, you can use the following command:
 
 ```sh
 ng run c
